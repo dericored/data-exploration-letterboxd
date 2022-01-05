@@ -57,7 +57,7 @@ This project is created with:
 
 9.  **Largest differences (Personal ratings vs. Audience ratings)**
     <!-- prettier-ignore -->
-    <img src="./analysis/results/18_ratingDifference_bar.png" width="500px">
+    <img src="./analysis/results/18_ratingDifference_bar.png" width="750px">
 
 10. **Genre combinations heatmap**
     <!-- prettier-ignore -->
@@ -65,7 +65,7 @@ This project is created with:
 
 11. **Genre performances (selected, top 10)**
     <!-- prettier-ignore -->
-    <img src="./analysis/results/20_genrePerformance_boxplot.png" width="400px">
+    <img src="./analysis/results/20_genrePerformance_boxplot.png" width="700px">
 
 12. **Longest movie marathon (consecutive days of watching films)**
     <!-- prettier-ignore -->
