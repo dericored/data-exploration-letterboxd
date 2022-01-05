@@ -15,59 +15,59 @@ This project is created with:
 
 ## Data Exploration and Analysis
 
-1.  Basic stats
+1.  **Basic stats**
     <!-- prettier-ignore -->
     <img src="./analysis/results/1_stats_text.png" width="250px">
     <img src="./analysis/results/2_additionalStats_text.png" width="250px">
-2.  Monthly and daily distribution
+2.  **Monthly and daily distribution**
     <!-- prettier-ignore -->
     <img src="./analysis/results/3_monthly_distribution_text.png" width="500px">
     <img src="./analysis/results/4_day_distribution.png" width="400px">
 
-3.  Top 10 genres, countries of origin, and languages
+3.  **Top 10 genres, countries of origin, and languages**
     <!-- prettier-ignore -->
     <img src="./analysis/results/5_genre_distribution.png" width="400px">
     <img src="./analysis/results/6_country_distribution.png" width="400px">
     <img src="./analysis/results/7_language_distribution.png" width="400px">
 
-4.  Personal ratings distribution
+4.  **Personal ratings distribution**
     <!-- prettier-ignore -->
     <img src="./analysis/results/8_ratings_distribution.png" width="400px">
 
-5.  Films liked and rewatched percentages
+5.  **Films liked and rewatched percentages**
     <!-- prettier-ignore -->
     <img src="./analysis/results/9_like_percent.png" width="250px">
     <img src="./analysis/results/10_rewatch_percent.png" width="250px">
 
-6.  Film runtime distribution
+6.  **Film runtime distribution**
     <!-- prettier-ignore -->
     <img src="./analysis/results/11_runtime_distribution.png" width="400px">
 
-7.  Top 10 directors, actors, writers and studios
+7.  **Top 10 directors, actors, writers and studios**
     <!-- prettier-ignore -->
     <img src="./analysis/results/12_director_distribution.png" width="400px">
     <img src="./analysis/results/13_actor_distribution.png" width="400px">
     <img src="./analysis/results/14_writer_distribution.png" width="400px">
     <img src="./analysis/results/15_studio_distribution.png" width="400px">
 
-8.  Highest and lowest audience ratings
+8.  **Highest and lowest audience ratings**
     <!-- prettier-ignore -->
     <img src="./analysis/results/16_highestAvgRating_table.png" width="400px">
     <img src="./analysis/results/17_lowestAvgRating_table.png" width="400px">
 
-9.  Largest differences (Personal ratings vs. Audience ratings)
+9.  **Largest differences (Personal ratings vs. Audience ratings)**
     <!-- prettier-ignore -->
     <img src="./analysis/results/18_ratingDifference_bar.png" width="500px">
 
-10. Genre combinations heatmap
+10. **Genre combinations heatmap**
     <!-- prettier-ignore -->
     <img src="./analysis/results/19_genrePairs_heatmap.png" width="400px">
 
-11. Genre performances (selected, top 10)
+11. **Genre performances (selected, top 10)**
     <!-- prettier-ignore -->
     <img src="./analysis/results/20_genrePerformance_boxplot.png" width="400px">
 
-12. Longest movie marathon (consecutive days of watching films)
+12. **Longest movie marathon (consecutive days of watching films)**
     <!-- prettier-ignore -->
     <img src="./analysis/results/21_marathon_timeline_1.png" width="500px">
     <img src="./analysis/results/21_marathon_timeline_2.png" width="500px">
